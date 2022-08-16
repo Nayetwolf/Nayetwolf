@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **My retro/Synthwavic station**
 
-- 🌱 I’m currently learning **linux, Bash, Docker as well Typescript**
+- 🌱 I’m currently learning **Typescript, Redux, bash & Docker as well **
 
-- 💬 Ask me about **React, javaScript and Sass**
+- 💬 I’m currently proficient with **javaScript, React and Node.js**
 
 - 📫 How to reach me **ilyas.rafiqfilali@gmail.com**
 
