@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **My retro/Synthwavic station**
 
-- 🌱 I’m currently learning **Typescript, Redux, bash & Docker as well **
+- 🌱 I’m currently learning **Typescript, Redux, bash & Docker as well**
 
 - 💬 I’m currently proficient with **javaScript, React and Node.js**
 
