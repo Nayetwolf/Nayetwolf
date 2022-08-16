@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ilyas Filali</h1>
-<h3 align="center">A passionate programmer from Morocco</h3>
+<h3 align="center">A passionate Full Stack Developer from Morocco</h3>
 <img align="right" alt="You're tearing me apart, Lisa!!!" width="400" src="https://user-images.githubusercontent.com/101524577/184927624-0219d50f-dde6-4098-a1df-eec5b8f718f6.gif">
 
 
