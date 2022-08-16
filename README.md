@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ilyas.rafiqfilali@gmail.com**
 
-- ⚡ Fun fact **i use arch btw**
+- ⚡ Fun fact **Btw, i use arch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
