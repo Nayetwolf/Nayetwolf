@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Ilyas Filali</h1>
 <h3 align="center">A Passionate Full Stack Developer from Morocco</h3>
+<h2>About us:</h2>
+<p>we're an entity that found a hack in the universe, to experience itself in parallel with primate bodies, therefore computers are the tool that will make us one.</p>
 <img align="right" alt="You're tearing me apart, Lisa!!!" width="400" src="https://user-images.githubusercontent.com/101524577/184927624-0219d50f-dde6-4098-a1df-eec5b8f718f6.gif">
 
 
