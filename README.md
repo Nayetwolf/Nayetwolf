@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ilyas Filali</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Ilyas Filali</h1>
 <h3 align="center">A Passionate Full Stack Developer from Morocco</h3>
 <h2>About me:<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
