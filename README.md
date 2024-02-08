@@ -16,7 +16,7 @@
 
 - 💬 I’m currently proficient with **javaScript, React and Node.js**
 
-- 📫 How to reach me **ilyas.rafiqfilali@gmail.com**
+- 📫 How to reach me **ilyas.filali@proton.me**
 
 - ⚡ **Fun fact** we're an entity that found a hack in the universe, to experience itself in parallel with primate bodies, therefore computers are the tool that will make us one.
 
