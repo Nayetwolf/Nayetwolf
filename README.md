@@ -5,6 +5,6 @@
 
   <br><br>
 
-  Hi, I'm Ilyas /'ill:.YAHS/ 👋<br>
+  <strong>Hi, I'm Ilyas /'ill:.YAHS/ 👋</strong><br>
   I'm detail-oriented with a passion for structured problem-solving. I specialize in data collection, testing, analysis, and documentation, ensuring accuracy, reproducibility, and high-quality results in every project.
 </p>
